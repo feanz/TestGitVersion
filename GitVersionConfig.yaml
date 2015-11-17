@@ -1,3 +1,2 @@
 mode: ContinuousDeployment
-commit-message-incrementing: MergeMessageOnly
 branches: {}
