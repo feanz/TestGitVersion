@@ -13,3 +13,5 @@ Change on master
 Another change
 
 Just merge comment 
+
+Some extra change after changing the config
